@@ -25,6 +25,13 @@ Este projeto é uma adaptação moderna do "WeatherViewer App" (Capítulo 7 do l
 * **Semestre:** 2025/02
 
 
+## 📱 Preview do Aplicativo
+
+<div align="center">
+  <img src="print_app.png" alt="Tela do WeatherViewer" width="300"/>
+</div>
+
+
 
 ## 📱 Sobre o Projeto
 
